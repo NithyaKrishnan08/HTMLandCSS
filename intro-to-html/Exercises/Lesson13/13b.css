@@ -1,0 +1,30 @@
+.flexbox {
+  display: flex;
+} 
+
+.column1 {
+  background-color: lightpink;
+  width: 100px;
+  height: 60px;
+  display: flex;
+  align-items: center;
+  padding-left: 50px;
+}
+
+.column2 {
+  background-color: lightblue;
+  width: 200px;
+  height: 60px;
+  font-size: 20px;
+}
+
+.row2 {
+  display: flex;
+  justify-content: space-between;
+  font-size: 20px;
+}
+
+.row2-item {
+  background-color: black;
+  color: white;
+}
