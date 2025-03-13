@@ -1,0 +1,28 @@
+.email {
+  color: rgb(118, 116, 116);
+  margin-bottom: 0;
+}
+
+.email-input {
+  margin-top: 10px;
+  width: 370px;
+  height: 30px;
+  border-width: 3px;
+  border: solid;
+  border-radius: 5px;
+}
+
+.policy {
+  color: rgb(118, 116, 116);
+  margin-top: 15px;
+}
+
+.agree-button {
+  background-color: rgb(5, 162, 209);
+  border: none;
+  color: white;
+  padding: 15px 125px;
+  font-size: 22px;
+  border-radius: 28px;
+  cursor: pointer;
+}

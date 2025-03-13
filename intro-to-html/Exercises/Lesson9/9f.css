@@ -1,0 +1,42 @@
+.container{
+  box-shadow: 0 0 6px rgba(0, 0, 0, 0.3);
+  width: 180px;
+  height: 300px;
+  border-radius: 6px;
+}
+
+.profile-picture {
+  width: 180px;
+  height: 180px;
+  object-fit: cover;
+  object-position: center;
+  vertical-align: middle;
+}
+
+.name {
+  vertical-align: middle;
+  font-size: 20px;
+  margin-left: 10px;
+  margin-top: 15px;
+  margin-bottom: 0;
+  font-weight: bold;
+}
+
+.friends {
+  vertical-align: middle;
+  font-size: 15px;
+  margin-left: 10px;
+  margin-top: 5px;
+  color: grey;
+}
+
+.add-button {
+  height: 30px;
+  vertical-align: middle;
+  background-color: rgb(62, 142, 221);
+  color: white;
+  font-size: 15px;
+  font-weight: bold;
+  border: none;
+  padding: 8px 24px;
+}

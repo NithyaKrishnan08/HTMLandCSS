@@ -1,0 +1,24 @@
+.para {
+  width: 300px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  vertical-align: middle;
+  font-size: 20px;
+  font-weight: bold;
+}
+
+.yes,
+.no {
+  width: 80px;
+  display: inline-block;
+  margin-top: 10px;
+  margin-bottom: 10px;
+  vertical-align: middle;
+  border-width: 2px;
+  border-radius: 5px;
+  font-size: 15px;
+  padding-top: 8px;
+  padding-bottom: 8px;
+  height: 40px;
+}
